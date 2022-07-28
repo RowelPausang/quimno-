@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body background="background 2.jpeg"
+    style="background-repeat:no-reapeat;background-size:cover;"> 
+    <style>
+      p:hover{
+        background-color: rgba(0, 152, 253, 0.925);
+        
+        }
+        p:hover{
+        background-color: rgba(0, 152, 253, 0.925);
+        } 
+        h1:hover{
+        background-color: rgba(0, 152, 253, 0.925);
+        }
+        </style>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAVORITES</title>
+</head>
+<body>
+    <h1></h1><a href="contacts.html"><ion-icon name="person-circle-outline"></ion-icon> </a>
+    
+
+<br> <hr width=1000 size=7 color="green"></br>
+  </hr> <a  href="https://www.facebook.com/"target=_blank>
+  <center><img src="facebook-icon.png" alt="Facebook" style="width:150px;height 50px;"></center></a>
+<h1 align="center" style="color:white">FACEBOOK</h1>
+<p align="center" style="color:white">FACEBOOK  Pinili ko ang facebook dahil maganda rin ito dahil pwede kang makipag communicate sa mga kamag-anak mo na malalayo. Pwede rin itong gamitin pang communicate sa mga classmates, teacher at iba pa lalo na ngayong bawal lumabas labas. Maganda rin ito lalo na kapag nabobored ka pwede 'kang manood dito ng kdrama or mag basa ng mga story na pinopost sa facebook. Pwede rin mo pala ito magamit pang balita lalo na kapag wala kayong telebisyon. Kaya ito ang aking napili kasi maganda at madaling gamitin.</p><br><br>
+</hr> <a  href="https://www.instagram.com"target=_blank>
+  <center><img src="instagram.jpeg" alt="Instagram" style="width:200px;height 50px;"></center></a>
+<h1 align="center" style="color:white">INSTAGRAM</h1>
+<p align="center" style="color:white">INSTAGRAM  Napili ko itong Instagram dahil pwede mo rin itong magamit pang communicate sa mga internet friends mo. Isa din ang Instagram sa may pinakamagandang filter quality. Ang Instagram ay pwede mo ring magamit pang online business. Pwede mong ipromote ang mga products na gusto mong ibenta. Katulad din ng facebook maaari 'kang mag post ng video at pictures dito.</p><br><br>
+</hr> <a  href="https://www.pinterest.com"target=_blank>
+  <center><img src="pinterest.jpeg" alt="Pinterest" style="width:150px;height 50px;"></center></a>
+<h1 align="center" style="color:white">PINTEREST</h1>
+<p align="center" style="color:white">PINTEREST Napili ko ito dahil ang Pinterest ay pwede 'kang makakuha ng mga magagandang quality ng pictures. Pwede ka rin dito mag upload ng videos na inedit. Pwede ka rin dito kumuha ng mga template para sa iyong business. Maari ka ring makakuha ng ideya dito, ideya kung anong magandang idrawing lalo na kapag ikaw ay artist. Ang pinterest ay libre para sa mga taong gustong gumamit nito. </p><br><br>
+</hr> <a  href="https://www.youtube.com/"target=_blank>
+  <center><img src="youtube.png" alt="YouTube" style="width:150px;height 50px;"></center></a>
+<h1 align="center" style="color:white">YOUTUBE</h1>
+<p align="center" style="color:white">YOUTUBE Napili ko itong Youtube dahil pwede mo rin itong pagkakitaan. Lalo na kapag gusto mong maging vlogger dito mo na lang iuupload ang mga magagandang view na nakuhanan ng camera mo. Ang YouTube maari 'ka rin makapakinig ng mga music. Pwede ka rin makanood dito ng mga movies. At higit sa lahat kapag ikaw ay nagkaroon ng maraming views dito sa YouTube maari 'kang makakuha ng malaking pera dahil nga itong YouTube pwedeng pagkakitaan sa pamamagitan lang ng pag v-vlog. </p><br><br>
+</hr> <a  href="https://myaccount.google.com/intro/personal-info"target=_blank>
+  <center><img src="gmail.jpeg" alt="Gmail" style="width:150px;height 50px;"></center></a>
+<h1 align="center" style="color:white">GMAIL</h1>
+<p align="center" style="color:white">GMAIL dahil po mahilig ako makinig ng music.<br> at nakakatulong po saakin ang youtube lalo na po kapag ako ay medyo stress.<br> gumagamit din po ako ng youtube kapag ako ay may isang bagay na ginagawa dahil nakakatulong po ito sakin upang i clear ang aking utak.<br> nakaka tulong din sakin ang youtube kapag may bagay ako na di maunawaan o  may impormasyon na gusto malaman.<br> youtube ang isa sa aking napili dahil isa ito sa aking mga interest. </p><br><br>
+  
+
+   <center><h2><a href="home.html"> <ion-icon  name="home-outline"></ion-icon></center> </a></h2>
+   </body>
+    <style>
+ion-icon {
+   font-size: 64px;
+  color: lightskyblue; }
+</style>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+ <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</html>
+
+    
+    
+</body>
+</html>

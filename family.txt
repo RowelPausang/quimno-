@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+</style>
+<body style="background.jpeg; background-repeat:no-reapeat; background-size: 100% 100%">
+<hr width=1300 size=4 color="black"> </hr>
+<h1 align="center"style="background-color:tomato">FAMILY</h1>
+<hr width=1300 size=4 color="black"></hr><br>
+<center>
+
+<table>
+<tr>
+<th>MAMA</th>
+<th>ME</th>
+<th>PAPA</th>
+</tr>
+<tr>
+<td><center><a href="user.htm"><img src="mama.jpeg" alt="" height=300 width=300></td>
+<td><center><a href="user.htm"><img src="me.jpeg" alt="" height=300 width=300></td>
+<td><center><a href="user.htm"><img src="papa.jpeg" alt="" height=300 width=300></td>
+</tr>
+<tr>
+
+<td style="font-size: 1.5vw" ><center>MAMA. This is my mama(She's a housewife <br>
+I'm proud of my mom because even though we're in a fight, she still doesn't let me down<br>
+so when I finish school, sila yung uunahin 'kong tulungan.</td>
+<td style="font-size: 1.5vw"><center>ME. Im a college student of CdM(Colegio <br>
+de Montalban, my course is BSIT Bachelor<br>
+of Science Information Technology</td>
+<td style="font-size: 1.5vw"><center>PAPA. This is my papa(He's a paintor <br>
+at Makati<br>I'm proud to my papa because even though he is old he still works for us.</td>
+</tr>
+
+
+
+</table>
+
+</body>
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Second Activity</title>
+</head>
+<center>
+<style>
+table{
+
+	width: 50%;
+	height: 70px;
+	border: 2px;
+	background-color:#008000
+	border-bottom-style: solid;
+	border-bottom-color:#92a8d1;
+	box-shadow: 5px 10px;
+	border-spacing: 15px;
+	position: absolute;
+
+}
+h1{
+	font-size:20px;
+}
+th{
+font-family:Fantasy;
+text-align: center;
+font-size: 10px;
+}
+
+</style>
+
+<h1>FACEBOOK</h1>
+<p>Pinili ko ang facebook dahil maganda rin ito dahil pwede kang makipag communicate sa mga kamag-anak mo na malalayo. Pwede rin itong gamitin pang communicate sa mga classmates, teacher at iba pa lalo na ngayong bawal lumabas labas. Maganda rin ito lalo na kapag nabobored ka pwede 'kang manood dito ng kdrama or mag basa ng mga story na pinopost sa facebook. Pwede rin mo pala ito magamit pang balita lalo na kapag wala kayong telebisyon. Kaya ito ang aking napili kasi maganda at madaling gamitin.</body>
+
+<h2>INSTRAGRAM</h2>
+<p>Napili ko itong Instagram dahil pwede mo rin itong magamit pang communicate sa mga internet friends mo. Isa din ang Instagram sa may pinakamagandang filter quality. Ang Instagram ay pwede mo ring magamit pang online business. Pwede mong ipromote ang mga products na gusto mong ibenta. Katulad din ng facebook maaari 'kang mag post ng video at pictures dito.</body>
+
+<h3>PINTEREST</h3>
+<p>Napili ko ito dahil ang Pinterest ay pwede 'kang makakuha ng mga magagandang quality ng pictures. Pwede ka rin dito mag upload ng videos na inedit. Pwede ka rin dito kumuha ng mga template para sa iyong business. Maari ka ring makakuha ng ideya dito, ideya kung anong magandang idrawing lalo na kapag ikaw ay artist. Ang pinterest ay libre para sa mga taong gustong gumamit nito.</body>
+
+<h4>YOUTUBE</h4>
+<p>Napili ko itong Youtube dahil pwede mo rin itong pagkakitaan. Lalo na kapag gusto mong maging vlogger dito mo na lang iuupload ang mga magagandang view na nakuhanan ng camera mo. Ang YouTube maari 'ka rin makapakinig ng mga music. Pwede ka rin makanood dito ng mga movies. At higit sa lahat kapag ikaw ay nagkaroon ng maraming views dito sa YouTube maari 'kang makakuha ng malaking pera dahil nga itong YouTube pwedeng pagkakitaan sa pamamagitan lang ng pag v-vlog.</body>
+
+<h5>GMAIL</h5>
+<p>Napili ko ito dahil ang Gmail ay pwedeng makapag padala ng email. Pwede mong magamit ang Gmail sa trabaho, school at iba pa. Importante rin ito dahil nga pwede kang gumawa ng email at mabilis lang ito gamitin. Pwede mo rin itong gamitin pang send ng mga documents na hindi pwede makapag send sa messenger. Kaya ito ang napili 'kong website kasi isa rin 'tong importante na website na pwedeng gamitin ng lahat.</body>
+
+<table style="border: 1px solid black; width: 50%; margin-left: auto;
+            margin-right: auto; margin-top: 2rem;">
+                <tr>
+                <th rowspan="6" style="border: 1px solid black; color: #051367; font-size: 25px;">Search</th>
+                  <th colspan="2" style="border: 1px solid black; color: #051367; font-size: 25px;">Browser</th>
+                  <th style="border: 1px solid black; color: #051367; font-size: 25px;">Website</th>
+                  <th style="border: 1px solid black; color: #051367; font-size: 25px;">Links</th>
+                </tr>
+                <tr>
+                    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Chrome</td>
+                    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Firefox</td>
+                    <td style="border: 1px solid black; color: #000000; font-size: 20px;">Facebook</td>
+                    <td style="border: 1px solid black; color: #B5FE83; font-size: 20px;"><a href="https://www.facebook.com/">https://www.facebook.com/</a></td>
+                  </tr>
+		    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Chrome</td>
+                    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Firefox</td>
+                    <td style="border: 1px solid black; color: #000000; font-size: 20px;">Instagram</td> 
+		    <td style="border: 1px solid black; color: #B5FE83; font-size: 20px;"><a href="https://https://www.instagram.com">https://www.instagram.com//</a></td>
+                  </tr>
+		    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Chrome</td>
+                    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Firefox</td>
+                    <td style="border: 1px solid black; color: #000000; font-size: 20px;">Pinterest</td> 
+		    <td style="border: 1px solid black; color: #B5FE83; font-size: 20px;"><a href="https://https://www.pinterest.com">https://www.pinterest.com//</a></td>
+                  </tr>
+		    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Chrome</td>
+                    <td style="border: 1px solid black; color: #203239; color: #000000; font-

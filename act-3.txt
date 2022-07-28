@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+<center>
+<form>
+<h1>ACTIVITY 3</h1>
+</head>
+</center>
+
+<body>
+<center>
+<form>
+<body background="name of background.jpg">
+
+<a href="https://www.facebook.com/">
+<img src="facebook-icon.png" alt="HTML" style="width:80px;height:80px;"></a>
+
+<h2 style="text-align:center;">Facebook</h2>
+<p style="text-align:center;">description of page</p>
+
+<a href="https://www.instagram.com">
+<img src="instagram.jpeg" alt="HTML" style="width:80px;height:80px;"></a>
+
+<h2 style="text-align:center;">Instagram</h2>
+<p style="text-align:center;">description of page</p>
+
+<a href="https://www.pinterest.com">
+<img src="pinterest.jpeg" alt="HTML" style="width:80px;height:80px;"></a>
+
+<h2 style="text-align:center;">Pinterest</h2>
+<p style="text-align:center;">description of page</p>
+
+<a href="https://www.youtube.com/">
+<img src="youtube.png" alt="HTML" style="width:80px;height:80px;"></a>
+
+<h2 style="text-align:center;">YouTube</h2>
+<p style="text-align:center;">description of page</p>
+
+
+<a href="https://myaccount.google.com/intro/personal-info">
+<img src="gmail.jpeg" alt="HTML" style="width:80px;height:80px;"></a>
+
+<h2 style="text-align:center;">Gmail</h2>
+<p style="text-align:center;">description of page</p>
+
+</body>
+</html>
